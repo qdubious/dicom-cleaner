@@ -1,3 +1,7 @@
 DEV
 __pycache__
 scraper.img
+
+.idea/
+.DS_Store
+venv/
